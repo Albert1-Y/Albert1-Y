@@ -67,5 +67,3 @@ Script en **Python** que permite experimentar con el cifrado afín paso a paso, 
 - ✉️ `albertyeremcaceres@gmail.com`  
 
 ---
-
-> 💡 Sugerencia: fija en tu perfil los repositorios anteriores y añade capturas o gifs (por ejemplo, `test.png` en WiñayXP) para mostrar el producto final. También puedes crear issues tipo “Good first issue” para invitar contribuciones.
