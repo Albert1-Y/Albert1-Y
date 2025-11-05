@@ -2,7 +2,7 @@
 
 Desarrollador de software con foco en **aplicaciones educativas**, **simulaciones científicas** y **herramientas de visualización de datos**. Disfruto convertir ideas en productos reales y documentarlos de manera que cualquier persona pueda entender cómo funcionan.
 
-- 🎓 Ingeniería de Sistemas (en curso) · Pontificia Universidad Católica del Perú  
+- 🎓 Ciencia de la Computación (en curso) · Universidad Católica San Pablo
 - 💡 Interés en experiencias interactivas con React, C++/SFML y Python/PyQt  
 - 🌱 Siempre aprendiendo sobre arquitectura de software y visualización
 
