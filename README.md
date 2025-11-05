@@ -65,8 +65,6 @@ Script en **Python** que permite experimentar con el cifrado afín paso a paso, 
 ## 📫 Contacto
 
 - ✉️ `albertyeremcaceres@gmail.com`  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario) _(actualiza con tu URL real)_  
-- 🧾 [Currículum](https://tu-portafolio-o-cv.com) _(agrega enlace si ya está disponible)_
 
 ---
 
