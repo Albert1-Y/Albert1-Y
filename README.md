@@ -64,6 +64,6 @@ Script en **Python** que permite experimentar con el cifrado afín paso a paso, 
 
 ## 📫 Contacto
 
-- ✉️ `albertyeremcaceres@gmail.com`  
+- ✉️ `albert.caceres@ucsp.edu.pe`  
 
 ---
